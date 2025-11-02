@@ -1,11 +1,13 @@
 ## Inventory Management Business Case
 
-**Stack:** Python (Google Colab), SQL (DuckDB), Tableau Public  
+**Stack:** Python (Google Colab), SQL (PostgreSQL), Tableau Public  
 **Goal:** Analyze inventory performance, build KPIs, and propose pricing & stock actions.
 
 ## Live Links
 - **Colab Notebook:** (to be added)
-- **Tableau Dashboard:** (to be added)
+- **Tableau Dashboard:**
+- Inventory Performance Overview - https://public.tableau.com/authoring/Dashboard1_17619339694780/InventoryPerformanceOverview#3
+- Unsold Inventory Risk Overview - https://public.tableau.com/authoring/UnsoldInventoryRiskOverview/UnsoldInventoryRiskOverview#8
 
 ## Repo Structure
 - `data/raw/` – source CSV  
@@ -26,3 +28,15 @@
 ## Notes
 - Unsold cars: `days_online` is computed up to “today”.
 - Outliers handled by robust stats (medians) in the deck.
+
+## 🧠 Key Insights
+
+- Sell-through rate below 50% → aging stock risk
+- Profitability strong but demand constrained
+- Jeep & Jaguar overpriced → efficiency issues
+- Opel, Mazda & Citroën → best supply scaling opportunities
+- 54% of inventory is unsold → slow turnover & high risk 
+- Cars remain listed 346+ days → severe aging issue 
+- Pricing strategy is competitive → not a price barrier 
+- Brands like Volkswagen, BMW, Opel drive most aging stock
+- Demand-side actions needed → targeted promotions & faster clearance
