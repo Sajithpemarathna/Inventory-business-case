@@ -6,8 +6,9 @@
 ## Live Links
 - **Colab Notebook:** - https://colab.research.google.com/drive/13dxooY4gMMSJdQsY81pg4cNt7IknnINj
 - **Tableau Dashboards:**
-  - Inventory Performance Overview - https://public.tableau.com/authoring/Dashboard1_17619339694780/InventoryPerformanceOverview#3
-  - Unsold Inventory Risk Overview - https://public.tableau.com/authoring/UnsoldInventoryRiskOverview/UnsoldInventoryRiskOverview#8
+  - Inventory Performance Overview - https://public.tableau.com/views/Dashboard1_17619339694780/InventoryPerformanceOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  - Unsold Inventory Risk Overview - https://public.tableau.com/views/UnsoldInventoryRiskOverview/UnsoldInventoryRiskOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+    
 
 ## Repo Structure
 - `data/raw/` – source CSV  
