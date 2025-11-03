@@ -1,0 +1,4 @@
+"fuel_type","cars","sell_through_rate","avg_days_online","avg_margin_eur","below_market_pct"
+"Benzin","715","0.428","215.3","4303.42","0.561"
+"Diesel","248","0.544","178.0","4821.34","0.605"
+"Hybrid","36","0.417","222.4","4209.61","0.667"
